@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\bin\Debug\Skill International.exe.config
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\bin\Debug\Skill International.exe
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\bin\Debug\Skill International.pdb
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill International.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill_International.Form1.resources
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill_International.Properties.Resources.resources
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill International.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill International.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill International.exe
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill International.pdb
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill_International.Home.resources
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill_International.Student_Registration.resources
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill In.6E678684.Up2Date
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill_International.about.resources
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill_International.serching.resources
+C:\Users\User\Desktop\Samagi Logine\Samagi Spice Loging Form\Skill international\Skill International\Skill International\obj\Debug\Skill_International.Edit_Registration.resources
